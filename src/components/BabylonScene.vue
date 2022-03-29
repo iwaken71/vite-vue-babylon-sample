@@ -1,5 +1,5 @@
 <template>
-  <canvas ref="bjsCanvas" width="1000" height="1000" />
+  <canvas id="renderCanvas" ref="bjsCanvas"/>
 </template>
 
 <script>
@@ -23,3 +23,18 @@ export default {
   },
 };
 </script>
+
+<style type="text/css">
+  body {
+        margin: 0;
+        padding: 0;
+        width: 100vw;
+        height: 100vh;
+    }
+    #renderCanvas {
+        margin: 0;
+        padding: 0;
+        width: 960px;
+        height: 540px;
+    }
+</style>
