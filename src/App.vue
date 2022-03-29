@@ -5,7 +5,7 @@ import BabylonScene from './components/BabylonScene.vue'
 </script>
 
 <template>
-  <BabylonScene msg="Hello Vue 3 + Vite" />
+  <BabylonScene />
 </template>
 
 <style>
