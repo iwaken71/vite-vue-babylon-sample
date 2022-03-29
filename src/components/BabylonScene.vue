@@ -1,5 +1,5 @@
 <template>
-  <canvas ref="bjsCanvas" width="500" height="500" />
+  <canvas ref="bjsCanvas" width="1000" height="1000" />
 </template>
 
 <script>
