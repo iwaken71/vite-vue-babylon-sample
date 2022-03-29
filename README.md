@@ -2,8 +2,8 @@
 
 clone
 ``` 
-git clone git@github.com:iwaken71/vite-sample.git
-cd vite-sample
+git clone git@github.com:iwaken71/vite-vue-babylon-sample.git
+cd vite-vue-babylon-sample
 ```
 
 SetUp
